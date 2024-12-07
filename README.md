@@ -30,7 +30,7 @@ Revenue_Insights_Dashboard.pbix
 ![revenues_dashboard_pagila](https://github.com/user-attachments/assets/f5b57647-635c-484e-b75a-8fb8cb00c2c0)
 
 ## Acknowledgments
-- The Pagila database was used as a sample dataset for this project. It basically contains the same information as the Sakila database that MySQL provides for its users to practice on. I see it as a great dataset to practice data analysis projects. PostgreSQL's version (Pagila) was created by GitHub user "devrimgunduz". Here is the repository link that I used to download the Pagila database and use for this analysis. Please feel free to use it and also get better querying. https://github.com/devrimgunduz/pagila
+- The Pagila database was used as a sample dataset for this project. It basically contains the same information as the Sakila database that MySQL provides for its users to practice on. I see it as a great dataset to practice data analysis projects. PostgreSQL's version (Pagila) was created by GitHub user "devrimgunduz". Here is the repository link that I used to download the Pagila database and use for this analysis. Please feel free to use it. https://github.com/devrimgunduz/pagila
 - AI tools such as ChatGPT. The sole purpose of AI in this project was for project ideas and prompts. It gave me a realistic task and various objectives.
 
 
